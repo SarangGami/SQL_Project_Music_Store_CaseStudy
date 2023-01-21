@@ -7,6 +7,9 @@
 * Postgre SQL
 * PgAdmin4
 
+## **Schema- Music Store Database**
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/121340232/213869215-b3541998-fe24-49a6-ade9-61374fc1d2ed.png)
+
 
 In this project, we analyze a digital music store's data using SQL. The project includes a variety of questions that cover different aspects of the data, ranging from easy to advance level.
 
