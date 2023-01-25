@@ -1,18 +1,19 @@
-# **SQL_Project_Music_Store_Analysis 🎵 🎹**
+# **SQL_Project_Music_Store 🎵 🎹**
 
-**Data Analysis for Digital Music Store using SQL**
+* **Case Study Of Digital Music Store using SQL**
 
-## Database and Tools
+### **Database Tools**
 * Postgre SQL
 * PgAdmin4
 
 
-## Table Of Contents
+# Table Of Contents
+  
   - [Introduction](#introduction)
   - [Datasets used](#datasets-used)
   - [Entity Relationship Diagram](#entity-relationship-diagram)
   - [Case Study Questions](#case-study-questions)
-
+  
 
 ## Introduction
 In this project, we analyze a digital music store's data using SQL. The project includes a variety of questions that cover different aspects of the data, ranging from easy to advance level.
@@ -20,6 +21,17 @@ In this project, we analyze a digital music store's data using SQL. The project 
 
 ## Datasets used
 
+* Employee
+* Customer
+* Artist
+* Playlist
+* Playlist track
+* Album
+* Track
+* Invoice
+* InvoiceLine
+* MediaType
+* Genre
 
 
 ## Entity Relationship Diagram
@@ -50,7 +62,8 @@ In this project, we analyze a digital music store's data using SQL. The project 
 * Finding the most popular music genre for each country
 * Identifying the customer that has spent the most on music for each country
 
-**Each question is designed to test your understanding of SQL and data analysis, and to help you gain insights into the digital music store's data. The project is intended as a learning resource for those who are new to SQL and data analysis and as a starting point for those who want to further explore the concepts and techniques used in the project.**
+
+Click [here]() to view the solution solution of the case study!
 
 
 
