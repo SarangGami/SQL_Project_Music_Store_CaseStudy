@@ -63,7 +63,7 @@ In this project, we analyze a digital music store's data using SQL. The project 
 * Identifying the customer that has spent the most on music for each country
 
 
-Click [here](https://github.com/SarangGami/SQL_Project_Music_Store_Analysis/blob/main/music_store_database_query.sql) to view the solution solution of the case study!
+## Click [here](https://github.com/SarangGami/SQL_Project_Music_Store_Analysis/blob/main/music_store_database_query.sql) to view the solution of the case study!
 
 
 
