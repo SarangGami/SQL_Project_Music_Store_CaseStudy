@@ -65,6 +65,3 @@ In this project, we analyze a digital music store's data using SQL. The project 
 
 ## Click [here](https://github.com/SarangGami/SQL_Project_Music_Store_Analysis/blob/main/music_store_database_query.sql) to view the solution of the case study!
 
-
-
-
