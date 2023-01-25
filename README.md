@@ -1,17 +1,32 @@
-# **SQL_Project_Music_Store_Analysis**
+# **SQL_Project_Music_Store_Analysis 🎵 🎹**
 
 **Data Analysis for Digital Music Store using SQL**
 
-## **Database and Tools**
-
+## Database and Tools
 * Postgre SQL
 * PgAdmin4
 
-## **Schema- Music Store Database**
+
+## Table Of Contents
+  - [Introduction](#introduction)
+  - [Datasets used](#datasets-used)
+  - [Entity Relationship Diagram](#entity-relationship-diagram)
+  - [Case Study Questions](#case-study-questions)
+
+
+## Introduction
+In this project, we analyze a digital music store's data using SQL. The project includes a variety of questions that cover different aspects of the data, ranging from easy to advance level.
+
+
+## Datasets used
+
+
+
+## Entity Relationship Diagram
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/121340232/213869215-b3541998-fe24-49a6-ade9-61374fc1d2ed.png)
 
 
-In this project, we analyze a digital music store's data using SQL. The project includes a variety of questions that cover different aspects of the data, ranging from easy to advance level.
+## Case Study Questions
 
 **Easy level questions include:**
 
